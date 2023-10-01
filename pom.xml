@@ -19,12 +19,7 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>com.github.oogasawa</groupId>
-      <artifactId>POJO-bdd</artifactId>
-      <version>1.4.2</version>
-      <scope>test</scope>
-    </dependency>
+    <!-- -->
   </dependencies>
 
   <build>
